@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "97243620458",
+    "firebase_url": "https://admin-3fb62.firebaseio.com",
+    "project_id": "admin-3fb62",
+    "storage_bucket": "admin-3fb62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97243620458:android:3d33ad22818c4abe",
+        "android_client_info": {
+          "package_name": "com.cme.krishimithra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97243620458-r9g4re6t9609b9bn2mmip2obs86remcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2i49yDOlE7x0PBduSzAGGWTg2t7clSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
